@@ -1,0 +1,1 @@
+console.log("Black Crown Barber - Web cargada correctamente");
